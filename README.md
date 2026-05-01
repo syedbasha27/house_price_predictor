@@ -63,7 +63,6 @@ To address missing real-world factors, the following proxy features were created
 
 * Python
 * Pandas
-* NumPy
 * Scikit-learn
 * XGBoost
 
