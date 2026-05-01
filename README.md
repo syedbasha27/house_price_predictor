@@ -118,8 +118,7 @@ XGBoost effectively captures complex relationships and provides accurate house p
 
 ## 👨‍💻 Author
 
-**Your Name Here**
-
+SYED BASHA
 ---
 
 ## 📌 Note
