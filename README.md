@@ -85,7 +85,6 @@ To address missing real-world factors, the following proxy features were created
 
 The model was evaluated using:
 
-* Mean Absolute Error (MAE)
 * Root Mean Squared Error (RMSE)
 * R² Score
 
